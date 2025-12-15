@@ -1,0 +1,28 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.form {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  max-width: 500px;
+  margin: auto;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input, select, button {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+}
